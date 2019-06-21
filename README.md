@@ -8,7 +8,9 @@
 
 <p><strong>Todo-List</strong>To build the project was used: create-react-app</p>
 
-<p>Ready project on the server: <link rel="todo-list" href="https://hungry-banach-d8f0fe.netlify.com"><p>
+<p>Ready project on the server:<p> <link rel="todo-list" href="https://hungry-banach-d8f0fe.netlify.com">
 
-<p>To run the project, refer to the documentation: <strong>create-react-app</strong><link rel="create-react-app" href="https://github.com/facebook/create-react-app"></p>
+<p>To run the project, refer to the documentation: <strong>create-react-app</strong></p> 
+
+<link rel="create-react-app" href="https://github.com/facebook/create-react-app">
 
